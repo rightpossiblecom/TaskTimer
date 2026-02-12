@@ -1,27 +1,4 @@
-Perfect. This is **lean, sticky, and completely safe**. Users get instant gratification, and you can add AI as a nice optional touch without touching sensitive data. Let’s formalize it into a **mini PRD**.
 
----
-
-## App Name Options
-
-**Top recommendation**
-**TaskTimer** – simple, descriptive, no fluff
-
-**Other solid options**
-
-* **QuickTimer** – emphasizes speed & simplicity
-* **FocusClock** – productivity-oriented
-* **PomodoroPal** – if you want Pomodoro vibes
-* **TimeBite** – small time chunks
-* **DoTimer** – action-oriented
-
-We’ll use **TaskTimer** for the PRD.
-
----
-
-## Product Requirements Document (PRD)
-
-### Product Name
 
 **TaskTimer**
 

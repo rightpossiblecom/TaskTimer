@@ -1,202 +1,98 @@
-# RecallBox - Play Store Listing
+# TaskTimer - Play Store Listing
 
-## App Information
-- **App Name**: RecallBox
-- **Package Name**: com.recallbox.app
-- **Category**: Productivity
-- **Content Rating**: Everyone
-- **Version**: 1.0.0
+## Short Description (max 80 characters)
+Focus timer with AI-powered duration suggestions for productive task management
 
----
+## Full Description (max 4000 characters)
 
-## Short Description
-**(Max 80 characters)**
+**TaskTimer: Your Smart Focus Companion**
 
-Store notes naturally. Find them instantly with AI-powered recall.
+Turn your tasks into focused sessions with TaskTimer - the minimalist timer app that combines simplicity with intelligent suggestions.
 
----
+🎯 **Core Features**
 
-## Full Description
-**(Max 4000 characters)**
+• **Quick Start Timer**: Type your task and start timing in seconds
+• **AI Duration Suggestions**: Get optimal time recommendations based on your task
+• **Manual Time Selection**: Choose from preset options (10, 25, 45 minutes) or set custom durations
+• **Clean Interface**: Beautiful, distraction-free design inspired by iOS
+• **Session History**: Track all completed sessions locally on your device
+• **Dark Mode**: Automatic theme switching for comfortable use anytime
 
-**RecallBox: Your Trusted Memory Assistant**
+⏱️ **How It Works**
 
-Store simply. Retrieve naturally.
+1. Enter your task name (e.g., "Study Math", "Clean Room", "Reading")
+2. Get an AI-suggested duration or pick your own time
+3. Start the timer and focus
+4. Complete your session
 
-RecallBox is your personal knowledge vault that remembers so you don't have to. Save notes, facts, procedures, and important information, then find them later using natural language questions.
+📊 **Built for Productivity**
 
-**🎯 The Problem We Solve**
+Whether you're a student preparing for exams, a professional managing work tasks, or anyone looking to build better focus habits, TaskTimer helps you:
 
-Ever saved something important and couldn't find it later?
-- "Where did I save those Wi-Fi setup steps?"
-- "What was that server password location?"
-- "How do I reset the router again?"
+✓ Break work into manageable time blocks
+✓ Stay focused with clear time limits
+✓ Build consistent work habits
+✓ Track your productivity journey
 
-Stop searching through scattered apps and folders. RecallBox keeps everything in one trusted place.
+🔒 **Privacy First**
 
-**✨ How It Works**
+• No account required
+• All data stored locally on your device
+• No tracking or analytics
+• No personal data collection
 
-1. **Save Anything**: Facts, procedures, passwords locations, setup guides
-2. **Ask Naturally**: "Where did I save the Wi-Fi setup?" or "Show me the API key note"
-3. **Get Results Instantly**: AI finds the exact note you need
+🎨 **Beautiful Design**
 
-**🔒 Privacy First**
+TaskTimer features a clean, minimalist interface with:
+• Material Design 3
+• Smooth animations
+• Emerald/teal color scheme for calm focus
+• Intuitive navigation
 
-- ✅ All data stays on YOUR device
-- ✅ No cloud syncing or servers
-- ✅ No user accounts required
-- ✅ Zero data collection
-- ✅ Completely offline after initial setup
+Perfect for:
+• Pomodoro technique practitioners
+• Students and researchers
+• Remote workers
+• Content creators
+• Anyone who wants to improve focus
 
-Your knowledge is yours alone.
+Download TaskTimer today and transform how you approach your tasks!
 
-**🧠 Powered by AI, Grounded in Truth**
+## Keywords/Tags
+timer, focus, productivity, pomodoro, task management, study timer, work timer, AI suggestions, minimalist, task timer, focus timer, productivity timer, study app, work productivity
 
-We use Google's Gemini AI to understand your questions, but we NEVER make things up. You only get YOUR saved content back - no hallucinations, no external knowledge, just pure recall.
-
-**💡 Perfect For**
-
-- Developers storing config snippets
-- Students organizing study notes
-- Professionals managing procedures
-- Anyone tired of re-searching their own knowledge
-
-**🎨 Features**
-
-- Natural language search
-- Simple note saving
-- Tags and titles (optional)
-- Dark mode support
-- Clean, distraction-free interface
-- Export your data anytime
-- No ads, ever
-
-**📦 What RecallBox Is NOT**
-
-- Not a document editor
-- Not a collaboration tool
-- Not a web knowledge base
-- Not trying to be smart - just trying to be RIGHT
-
-**⚡ Get Started**
-
-1. Download RecallBox
-2. Save your first note
-3. Ask a question
-4. Be amazed at how easy recall can be
-
-RecallBox tries to be right, not smart. 📦✨
-
----
-
-## App Category
+## Category
 **Primary**: Productivity
-
 **Secondary**: Tools
 
----
-
-## Tags / Keywords
-recallbox, notes, recall, memory, knowledge base, AI search, note taking, personal wiki, knowledge management, productivity, offline notes, private notes, local storage, smart notes, intelligent search
-
----
+## Content Rating
+Everyone
 
 ## Privacy Policy URL
-https://recallbox.app/privacy-policy
+https://tasktimer.app/privacy-policy
 
-(Note: Create this page before submission)
+## App Website
+https://tasktimer.app
 
----
-
-## Support Contact
-support@recallbox.app
-
----
-
-## Screenshots Descriptions
-
-### Screenshot 1: Home Screen
-**Title**: Ask. Recall. Done.
-**Description**: Search your notes using natural language. No keywords, no complex queries.
-
-### Screenshot 2: Save Note
-**Title**: Save Anything Important
-**Description**: Quickly save facts, procedures, and notes. Optional titles make organization effortless.
-
-### Screenshot 3: Search Results
-**Title**: Instant AI-Powered Recall
-**Description**: Find exactly what you saved with intelligent AI search that never hallucinates.
-
-### Screenshot 4: History
-**Title**: All Your Notes in One Place
-**Description**: Browse, search, and manage all your saved knowledge from a clean interface.
-
-### Screenshot 5: Settings
-**Title**: Privacy First, Always
-**Description**: Your data stays on your device. Export anytime. No account required.
-
-### Screenshot 6: Dark Mode
-**Title**: Beautiful in Light or Dark
-**Description**: Seamless dark mode for comfortable note-taking day or night.
-
----
-
-## Feature Graphic Text
-**(1024 x 500 banner)**
-
-Main Text: "RecallBox"
-Subtitle: "Store Simply. Retrieve Naturally."
-Visual: Brain in a box icon with purple gradient
-
----
-
-## Promotional Text
-**(Max 170 characters - appears at top of listing)**
-
-Never forget where you saved important information. RecallBox uses AI to help you recall your notes using natural language questions.
-
----
-
-## What's New (Version 1.0.0)
-
-🎉 Welcome to RecallBox!
-
-• Save notes, facts, and procedures effortlessly
-• Find anything with natural language search
-• Privacy-first: all data stays on your device
-• Beautiful, clean interface with dark mode
-• Export your data anytime
-• Powered by Google Gemini AI
-
-Your personal memory assistant is here! 📦✨
-
----
-
-## Content Rating Questionnaire
-- Violence: None
-- Sexual Content: None
-- Profanity: None  
-- Controlled Substances: None
-- Gambling: None
-- User Interaction: None
-- Location Sharing: None
-- Purchases: None
-- Ads: None
-
-**Result**: Everyone (suitable for all ages)
-
----
+## Support Email
+support@tasktimer.app
 
 ## Target Audience
 - Age: 13+
-- Primarily: Students, Developers, Professionals
-- Geographic: Global
-- Use Case: Knowledge management, note organization, personal productivity
+- Students
+- Professionals
+- Productivity enthusiasts
+- Remote workers
 
----
+## What's New (Version 1.0.0)
+🎉 Initial release of TaskTimer!
 
-## Pricing & Distribution
-- Free
-- No in-app purchases
-- No ads
-- Available in all countries
+Features include:
+• Focus timer with customizable durations
+• AI-powered task duration suggestions
+• Session history tracking
+• Dark/Light theme support
+• Clean, minimalist interface
+• Privacy-focused (no data collection)
+
+Start focusing better today!

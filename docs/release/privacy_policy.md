@@ -1,105 +1,75 @@
-# RecallBox Privacy Policy
+# TaskTimer Privacy Policy
 
-**Last Updated**: January 27, 2026
+**Last Updated**: February 12, 2026
 
-## Our Commitment
+## Overview
+TaskTimer ("we", "our", or "the app") is committed to protecting your privacy. This privacy policy explains how we handle your information.
 
-RecallBox is built with privacy as the foundation. We believe your personal knowledge is yours alone.
+## Data Collection
+**We do not collect any personal data.**
 
-## Data Collection: NONE
+TaskTimer is designed with privacy as a core principle:
+- No user accounts required
+- No login or authentication
+- No cloud storage or syncing
+- No analytics or tracking
+- No personal information collection
+- No advertising or third-party services
 
-**We do not collect ANY personal data**. Period.
+## Local Data Storage
+All app data is stored locally on your device using industry-standard local storage:
+- **Task History**: Your completed timer sessions are stored only on your device
+- **Settings**: Your theme preferences are stored only on your device
+- **No Backup**: Data is not backed up to any cloud service
 
-Specifically:
-- ❌ No user accounts
-- ❌ No email addresses
-- ❌ No names or personal identifiers
-- ❌ No usage analytics
-- ❌ No crash reporting data
-- ❌ No device identifiers
-- ❌ No location data
-- ❌ No behavioral tracking
+When you uninstall the app, all local data is permanently deleted.
 
-## Data Storage: LOCAL ONLY
+## AI Features
+TaskTimer uses Google's Gemini AI API to suggest task durations:
+- **What we send**: Only the task name you type (e.g., "Study Math")
+- **What we receive**: A suggested duration in minutes
+- **No storage**: We do not store or log this interaction
+- **No personal data**: Task names are processed momentarily and notretained
 
-All your notes and data are stored exclusively on YOUR device using local storage (Hive database).
+## Internet Connection
+The app requires internet connection ONLY for:
+- AI duration suggestions (optional feature)
 
-- ✅ Your notes never leave your device
-- ✅ No cloud syncing
-- ✅ No external servers
-- ✅ No backups to our systems
+You can use the core timer functionality completely offline.
 
 ## Third-Party Services
+TaskTimer uses Google's Gemini API for AI suggestions. Google's usage is subject to their own privacy policy: https://policies.google.com/privacy
 
-### Google Gemini AI
-When you search your notes, your query and the relevant note context are sent to Google's Gemini API to process the search. However:
-- Only YOUR saved notes are included in the search context
-- No user identification is sent
-- Google's AI processes the request and returns results
-- We do not store or access these API calls
-- Refer to [Google's Privacy Policy](https://policies.google.com/privacy) for their data handling
-
-### Google Fonts
-We use Google Fonts to display text. This may load fonts from Google's servers, which is standard practice and subject to [Google's Privacy Policy](https://policies.google.com/privacy).
-
-## Permissions Required
-
-### Internet Permission
-Required to:
-- Access Google Gemini AI for search functionality
-- Load Google Fonts
-- Open external links (Privacy Policy, Support)
-
-We do NOT use internet permission for:
-- Tracking
-- Analytics
-- Data collection
-- Advertising
-
-## Your Rights
-
-Since we don't collect any data, there's nothing to:
-- Request
-- Delete
-- Export (from our side - you can export your own notes anytime within the app)
-- Modify
+We do not:
+- Use advertising networks
+- Use analytics services
+- Share data with third parties
+- Sell or rent your information
 
 ## Children's Privacy
-
-RecallBox does not knowingly collect data from anyone, including children under 13. Since we collect no data at all, the app is safe for all ages.
-
-## Data Security
-
-Your notes are stored locally using industry-standard local database encryption (Hive Flutter). The security of your device determines the security of your data.
+TaskTimer does not knowingly collect any information from children or anyone else. The app is safe for all ages.
 
 ## Changes to Privacy Policy
+We may update this privacy policy occasionally. Updates will be reflected in the "Last Updated" date above and posted within the app.
 
-If we ever change our privacy practices, we will update this policy and notify users through the app.
+## Contact
+If you have questions about this privacy policy, contact us at:
+- Email: support@tasktimer.app
 
-## What Happens If You Uninstall
+## Your Rights
+Since we don't collect personal data, there is no data to:
+- Request access to
+- Request deletion of
+- Request correction of
 
-When you uninstall RecallBox, all your local data is removed from your device per Android/iOS standard practices. This data is NOT recoverable.
+All data remains on your device under your control.
 
-## Export Your Data
+## Permissions
+TaskTimer only requests the following Android permission:
+- **INTERNET**: Required for AI duration suggestions (optional feature)
 
-You can export all your notes as JSON at any time from the Settings screen. This gives you full control and ownership of your data.
-
-## Contact Us
-
-If you have questions about this Privacy Policy:
-
-**Email**: support@recallbox.app  
-**Website**: https://recallbox.app
-
-## Summary
-
-**What we collect**: Nothing  
-**Where data is stored**: Only on your device  
-**Who we share with**: No one  
-**Your control**: Complete
-
-RecallBox exists to serve you, not to harvest your data.
+No other permissions are requested or used.
 
 ---
 
-© 2026 RecallBox. All rights reserved.
+By using TaskTimer, you agree to this privacy policy.

@@ -84,6 +84,13 @@ Before starting, gather the following:
 ## Phase 2: Android Release Signing
 
 ### 2.1 Generate Keystore
+
+**Windows (PowerShell):**
+```powershell
+& "C:\Program Files\Android\Android Studio\jbr\bin\keytool.exe" -genkey -v -keystore "docs/release/[appname]-release.jks" -keyalg RSA -keysize 2048 -validity 10000 -alias [appname] -storepass [appname]123 -keypass [appname]123 -dname "CN=[AppName], OU=[AppName], O=[AppName], L=City, ST=State, C=US"
+```
+
+**macOS/Linux:**
 ```bash
 keytool -genkey -v -keystore docs/release/[appname]-release.jks \
   -keyalg RSA -keysize 2048 -validity 10000 \
